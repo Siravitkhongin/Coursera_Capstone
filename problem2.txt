@@ -1,0 +1,7 @@
+In my project "Opportunity to open new restaurant around Kasetsart University Thailand" , I think found list of data in below 
+1. Data number of restaurant around Kasetsart University.
+2. Data location restaurant around Kasetsart University .
+3. Data number of student in Kasetsart University ( effect to size of restaurant ) . 
+4. Data kind of popular food from student . 
+5. Trends of demands food from student . 
+in above a lot of data i think scout from Foursquare API and outsource.
